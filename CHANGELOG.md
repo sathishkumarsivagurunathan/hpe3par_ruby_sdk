@@ -1,14 +1,16 @@
-v1.0.1
-Notes
+##v1.0.1
+
+#Notes
 
 This is the second version of the Ruby SDK for HPE3PAR SDK in Ruby.
 
-Changes:-
+#Changes:-
 
 [https://github.com/HewlettPackard/hpe3par_ruby_sdk/pull/1] Delete telemetry metadata before deleting the volume
 
-v1.0.0
-Notes
+##v1.0.0
+
+#Notes
 
 This is the first release of the HPE3PAR SDK in Ruby and it adds full support to some features listed below
 
